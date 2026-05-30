@@ -21,3 +21,7 @@ nav {
 ul {
     display: flex;
 }
+
+li {
+    list-style-type: none;
+}
