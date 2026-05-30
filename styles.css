@@ -7,5 +7,10 @@
 }
 
 nav {
+    height: 80px;
+    display: flex;
+}
+
+.nav__container {
     
 }
