@@ -35,4 +35,5 @@ li {
 
 .nav__link {
     margin-left: 16px;
+    text-decoration: none;
 }
