@@ -81,6 +81,12 @@ header {
     justify-content: space-around;
 }
 
+.header__description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 h1 {
     font-size: 56px;
     color: #7342d6;
