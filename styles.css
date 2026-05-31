@@ -261,3 +261,8 @@ FEATURES
     text-decoration: underline;
     cursor: not-allowed;
 }
+
+.book__ratings {
+    margin-bottom: 8px;
+    color: #fabf2a;
+}
