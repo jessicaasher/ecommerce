@@ -237,6 +237,7 @@ FEATURES
 
 .book__img{
     max-height: 380px;
+    transition: all 300ms ease;
 }
 
 .book__img--wrapper {
