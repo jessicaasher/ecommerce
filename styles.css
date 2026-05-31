@@ -158,11 +158,13 @@ HIGHLIGHTS
 }
 
 .highlight__img {
-    border: 2px solid #7342d655;
+    border: 2px solid #7342d65d;
     width: 100px;
     height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 4px;
+    font-size: 32px;
+    margin-bottom: 24px;
 }
