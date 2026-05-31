@@ -139,3 +139,7 @@ button:active {
 HIGHLIGHTS 
 
 */
+
+.highlight__wrapper {
+    display: flex;
+}
