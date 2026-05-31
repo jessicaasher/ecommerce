@@ -230,6 +230,10 @@ FEATURES
     display: flex;
 }
 
+.book {
+    
+}
+
 .book__img{
     max-height: 380px;
 }
