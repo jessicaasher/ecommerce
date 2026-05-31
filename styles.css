@@ -226,6 +226,10 @@ FEATURES
     background-color: rgba(115, 66, 214, 0.1);
 }
 
+.books {
+    
+}
+
 .book__img{
     max-height: 380px;
 }
