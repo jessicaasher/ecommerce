@@ -154,6 +154,8 @@ HIGHLIGHTS
     position: absolute;
     width: 101vw;
     height: 12vw;
+    top: 1px;
+    left: 0;
 }
 
 .highlight__wrapper {
