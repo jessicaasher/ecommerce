@@ -259,4 +259,5 @@ FEATURES
 
 .book__title:hover {
     text-decoration: underline;
+    cursor: no-drop;
 }
