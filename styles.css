@@ -256,3 +256,7 @@ FEATURES
     font-size: 20px;
     margin-bottom: 8px;
 }
+
+.book__title:hover {
+    text-decoration: underline;
+}
