@@ -232,6 +232,7 @@ FEATURES
 
 .book {
     width: 25%;
+    padding: 24px;
 }
 
 .book__img{
