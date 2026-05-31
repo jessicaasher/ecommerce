@@ -148,7 +148,7 @@ HIGHLIGHTS
     content:"dfdsfa";
 }
 
-#highlights:after {
+#highlights:before {
     background: url('assets/wave.svg');
     content: "";
     position: absolute;
