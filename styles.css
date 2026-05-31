@@ -152,3 +152,7 @@ HIGHLIGHTS
     justify-content: center;
     flex-direction: column;
 }
+
+.highlight__para {
+    text-align: center;
+}
