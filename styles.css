@@ -144,6 +144,10 @@ HIGHLIGHTS
 
 */
 
+#highlight {
+    position: relative;
+}
+
 #highlights:before {
     content:"dfdsfa";
 }
