@@ -152,6 +152,8 @@ HIGHLIGHTS
     background: url('assets/wave.svg');
     content: "";
     position: absolute;
+    width: 101vw;
+    height: 12vw;
 }
 
 .highlight__wrapper {
