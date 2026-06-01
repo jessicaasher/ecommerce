@@ -27,6 +27,14 @@ p {
     line-height: 1.5;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .nav__container {
     width: 100%;
     max-width: 1200px;
@@ -328,4 +336,8 @@ footer {
 
 .footer__list {
     margin: 20px 0 24px 0;
+}
+
+.footer__link {
+    padding: 0 8px;
 }
