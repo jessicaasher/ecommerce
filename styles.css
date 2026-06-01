@@ -256,8 +256,6 @@ FEATURES
 .book__title {
     font-size: 20px;
     margin-bottom: 8px;
-    justify-content: center;
-    display: flex;
 }
 
 .book__title:hover {
@@ -268,8 +266,6 @@ FEATURES
 .book__ratings {
     margin-bottom: 8px;
     color: #fabf2a;
-    justify-content: center;
-    display: flex;
 }
 
 .book__price--normal {
@@ -277,3 +273,12 @@ FEATURES
     padding-right: 6px;
     color: #bfbfbf;
 }
+
+.book__price,
+.book__ratings,
+.book__title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
