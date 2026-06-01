@@ -221,13 +221,14 @@ FEATURES
 
 */
 
-#features {
+#featured {
     padding-top: 8vw;
     background-color: rgba(115, 66, 214, 0.1);
 }
 
 .books {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .book {
@@ -255,6 +256,8 @@ FEATURES
 .book__title {
     font-size: 20px;
     margin-bottom: 8px;
+    justify-content: center;
+    display: flex;
 }
 
 .book__title:hover {
@@ -265,6 +268,8 @@ FEATURES
 .book__ratings {
     margin-bottom: 8px;
     color: #fabf2a;
+    justify-content: center;
+    display: flex;
 }
 
 .book__price--normal {
