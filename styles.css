@@ -96,7 +96,7 @@ li {
 }
 
 .menu__backdrop {
-    
+    position: absolute;
 }
 
 /* 
