@@ -312,7 +312,20 @@ footer {
     background-color: #242424;
 }
 
+.footer__logo {
+    display: flex;
+}
+
 .footer__logo--img {
     width: 160px;
     filter: grayscale(1) invert(1);
+}
+
+.footer__link,
+.footer__copyright {
+    color: #fff;
+}
+
+.footer__list {
+    margin: 24px 0;
 }
