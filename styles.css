@@ -114,6 +114,10 @@ li {
     align-items: center;
 }
 
+.menu__link {
+    color: white;
+}
+
 .btn__menu--close {
     position: absolute;
     right: 20px;
