@@ -144,6 +144,12 @@ button:active {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+.row__column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 /* 
 
 HIGHLIGHTS 
