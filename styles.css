@@ -341,3 +341,7 @@ footer {
 .footer__list{
     margin-bottom: 24px;
 }
+
+.footer__link {
+    padding: 0 8px;
+}
