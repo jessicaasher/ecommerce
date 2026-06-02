@@ -412,6 +412,9 @@ footer {
 }
 
 /* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
+@media (max-width: 768px) {
+    
+}
 
 /* SMALL PHONES, LARGE SMARTPHONES */
 
