@@ -450,4 +450,8 @@ footer {
         width: 100%;
         margin-bottom: 24px;
     }
+
+    .highlight:not(:last-child) {
+        margin-bottom: 24px;
+    }
 }
