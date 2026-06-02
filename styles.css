@@ -424,6 +424,10 @@ footer {
     h2 {
         font-size: 26px;
     }
+
+    button {
+        font-size: 18px;
+    }
 }
 
 /* SMALL PHONES, LARGE SMARTPHONES */
