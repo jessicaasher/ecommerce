@@ -416,6 +416,10 @@ footer {
     .header__description {
         padding: 0 24px;
     }
+
+    h1 {
+        font-size: 40px;
+    }
 }
 
 /* SMALL PHONES, LARGE SMARTPHONES */
