@@ -107,7 +107,7 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: opacity 300ms ease;
+    transition: all 300ms ease;
     opacity: 0;
     visibility: hidden;
 }
