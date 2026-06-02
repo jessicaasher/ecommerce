@@ -110,7 +110,7 @@ li {
 }
 
 .menu--open .menu__backdrop {
-    
+    display: flex;
 }
 
 .menu__links {
