@@ -109,6 +109,10 @@ li {
     display: none;
 }
 
+.menu--open .menu__backdrop {
+    
+}
+
 .menu__links {
     display: flex;
     flex-direction: column;
