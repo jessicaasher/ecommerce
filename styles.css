@@ -428,6 +428,10 @@ footer {
     button {
         font-size: 18px;
     }
+
+    .book {
+        width: 50%;
+    }
 }
 
 /* SMALL PHONES, LARGE SMARTPHONES */
